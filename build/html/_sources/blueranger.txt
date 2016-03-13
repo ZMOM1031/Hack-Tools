@@ -1,0 +1,6 @@
+.. _blueranger:
+
+==========
+blueranger
+==========
+

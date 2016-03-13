@@ -1,0 +1,6 @@
+.. _fragrouter:
+
+===========
+fragrouter
+===========
+

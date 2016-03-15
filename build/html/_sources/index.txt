@@ -8,6 +8,8 @@ Hack Tools 参考手册
 
 本文档为常见黑客工具的使用手册。阅读时需要有一定的网络、Linux、Windows ... 基础知识。
 
+dig nslookup whois bettercap
+
 参考
 ==========
 
@@ -52,6 +54,7 @@ Hack Tools 参考手册
    braa
    bulk-extractor
    bully
+   burpkit
    burp-suite
    cain
    capstone
@@ -101,6 +104,7 @@ Hack Tools 参考手册
    dos2unix
    dotdotpwn
    dradis
+   driftnet
    dumpzilla
    eapmd5pass
    edb-debugger
@@ -126,9 +130,9 @@ Hack Tools 参考手册
    goofile
    gpp-decrypt
    gqrx
-   gr-scan
    grabber
    greenbone-security-assistant
+   gr-scan
    gsd
    guymager
    hamster-sidejack
@@ -138,8 +142,8 @@ Hack Tools 参考手册
    high-orbit-ion-cannon
    hping
    hping3
-   http-tunnel
    httptunnel
+   http-tunnel
    iaxflood
    inguma
    intersect
@@ -154,9 +158,9 @@ Hack Tools 参考手册
    javasnoop
    jboss-autopwn
    jd-gui
-   john-the-ripper
    john
    johnny
+   john-the-ripper
    joomscan
    jsql
    kalibrate-rtl
@@ -196,11 +200,11 @@ Hack Tools 参考手册
    oclgausscrack
    ohrwurm
    ollydbg
+   openvas
    openvas-administrator
    openvas-cli
    openvas-manager
    openvas-scanner
-   openvas
    oscanner
    owasp-http-post-tool
    p0f
@@ -209,8 +213,8 @@ Hack Tools 参考手册
    paros
    parsero
    patator
-   pdf-parser
    pdfid
+   pdf-parser
    pdgmail
    peepdf
    phrasendrescher
@@ -316,3 +320,4 @@ Hack Tools 参考手册
    yersinia
    zaproxy
    zmap
+   

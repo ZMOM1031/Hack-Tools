@@ -54,6 +54,7 @@ dig nslookup whois bettercap
    braa
    bulk-extractor
    bully
+   burpkit
    burp-suite
    cain
    capstone
@@ -103,6 +104,7 @@ dig nslookup whois bettercap
    dos2unix
    dotdotpwn
    dradis
+   driftnet
    dumpzilla
    eapmd5pass
    edb-debugger
@@ -128,9 +130,9 @@ dig nslookup whois bettercap
    goofile
    gpp-decrypt
    gqrx
-   gr-scan
    grabber
    greenbone-security-assistant
+   gr-scan
    gsd
    guymager
    hamster-sidejack
@@ -140,8 +142,8 @@ dig nslookup whois bettercap
    high-orbit-ion-cannon
    hping
    hping3
-   http-tunnel
    httptunnel
+   http-tunnel
    iaxflood
    inguma
    intersect
@@ -156,9 +158,9 @@ dig nslookup whois bettercap
    javasnoop
    jboss-autopwn
    jd-gui
-   john-the-ripper
    john
    johnny
+   john-the-ripper
    joomscan
    jsql
    kalibrate-rtl
@@ -198,11 +200,11 @@ dig nslookup whois bettercap
    oclgausscrack
    ohrwurm
    ollydbg
+   openvas
    openvas-administrator
    openvas-cli
    openvas-manager
    openvas-scanner
-   openvas
    oscanner
    owasp-http-post-tool
    p0f
@@ -211,8 +213,8 @@ dig nslookup whois bettercap
    paros
    parsero
    patator
-   pdf-parser
    pdfid
+   pdf-parser
    pdgmail
    peepdf
    phrasendrescher
@@ -318,3 +320,4 @@ dig nslookup whois bettercap
    yersinia
    zaproxy
    zmap
+   

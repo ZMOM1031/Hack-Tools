@@ -25,6 +25,8 @@ dig nslookup whois bettercap
    
    introduction
    table-of-contents
+   arpspoof
+   dnsspoof
    acccheck
    ace-voip
    aircrack-ng
@@ -179,6 +181,7 @@ dig nslookup whois bettercap
    mdk3
    metagoofil
    metaspoilt
+   metasploit
    mfcuk
    mfoc
    mfterm

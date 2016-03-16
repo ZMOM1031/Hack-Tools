@@ -1,6 +1,0 @@
-.. _slowhttptest:
-
-=============
-slowhttptest
-=============
-

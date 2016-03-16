@@ -1,6 +1,0 @@
-.. _statsprocessor:
-
-===============
-statsprocessor
-===============
-

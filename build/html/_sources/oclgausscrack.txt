@@ -1,6 +1,0 @@
-.. _oclgausscrack:
-
-==============
-oclgausscrack
-==============
-

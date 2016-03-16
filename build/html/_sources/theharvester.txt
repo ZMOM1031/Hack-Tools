@@ -1,6 +1,0 @@
-.. _theharvester:
-
-=============
-theharvester
-=============
-

@@ -1,6 +1,0 @@
-.. _bluesnarfer:
-
-============
-bluesnarfer
-============
-

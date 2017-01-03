@@ -1,6 +1,0 @@
-.. _blindelephant:
-
-==============
-blindelephant
-==============
-

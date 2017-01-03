@@ -1,6 +1,0 @@
-.. _powerfuzzer:
-
-============
-powerfuzzer
-============
-

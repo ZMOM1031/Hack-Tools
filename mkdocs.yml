@@ -1,9 +1,0 @@
-site_name: 黑客工具使用手册
-site_description: Security Testing Tools Doc
-repo_url: https://github.com/iternull-team/hack-security-tools-cn/
-theme: readthedocs
-
-pages:
-- Welcome: index.md
-
-copyright: Copyright &copy; 2016 <a href="https://www.iternull.com/">IterNull</a>.

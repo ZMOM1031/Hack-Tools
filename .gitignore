@@ -1,4 +1,5 @@
 build/
+_book/
 bak/
 old/
 *.txt
